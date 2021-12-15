@@ -22,7 +22,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 
 2. [ Overview of the house ](#overview)
 
-
+ - [ Kitchen ](#kitchen)
+  - [ Dishwasher ](#dishwasher)
+  - [ Washer/dryer ](#washerdryer)
 
 
 ![Floorplan](floorplan.png)
@@ -102,6 +104,7 @@ or simply forgot to bring a book for your holiday.
 Let us now start with the most button-populated part of the house, 
 namely the kitchen.
 
+<a name="kitchen"></a>
 ## Kitchen
 
 As a general rule of thumb, if some of the appliances don't seem to
@@ -109,6 +112,7 @@ work, please make sure that the socket switch is on.  For instance,
 the hob/oven, washing machine, washer/dryer and the extractor all
 have a main switch on the wall -- these are all labelled.
 
+<a name="dishwasher"></a>
 ### Dishwasher
 
 The caretaker provides you with the first tablets needed to run the dishwasher.
@@ -131,6 +135,7 @@ Please do not wash wood, for instance knives with the wooden handles.
 Add photos/videos here, check buttons, times.
 ```
 
+<a name="washerdryer"></a>
 ### Washer/dryer
 
 The following is just a simplified series of steps that
