@@ -110,5 +110,44 @@ The caretaker provides you with the first tablets needed to run the dishwasher.
 
 Please do not wash wood, for instance knives with the wooden handles.
 
+```
+Add photos/videos here, check buttons, times.
+```
+
+#### Washer/dryer
+
+The following is just a simplified series of steps that
+tells you how to do a typical 40º wash of cotton clothes.
+For more elaborate programmes, please refer to the more detailed manual
+for the washing machine in this file.
+
+If the machine doesn't respond, check first that the power switch is on,
+located on the wall above the worktop surface.
+
+- Ensure that the machine isn't turned on (no red lights on).
+- Open the door by pulling the catch outward.
+
+- If you have a detergent tablet (a few should be supplied), 
+  put it in a bag with the rest of the clothes.
+- If you are using powder detergent, pull out the tray and fill up the 
+  middle compartment.  The more detailed manual tells you
+  what detergents should be used and what the various compartments are for.
+
+- Turn the rightmost dial *clockwise* to `D`.
+  You may have to pop the dial out by first pushing on it.
+- Start the machine by pressing the ON/OFF button which is the 
+  rightmost of the rectangular buttons.  The mains-on light
+  comes on and the machine starts operating.
+
+The program takes roughly two hours.  The washing cycle stops 
+when the right dial is between `G` and `F`.
+
+The door is controlled by a safety device which releases 2 minutes 
+after the end of the programme. 
+
+- Switch the machine off by depressing the ON/OFF button again, and
+  the mains-on light goes out.
+
+
 
 
