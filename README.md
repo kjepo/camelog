@@ -74,7 +74,7 @@ There should be leaflets in the house with contact information.
 
 The next few sections will describe where to find things
 (such as the ironing board) and give simple instructions on how to
-perform *typical jobs*, like washing some clothes.  
+perform *typical jobs*, like washing some clothes.
 We're assuming that you have used similar appliances
 before and just need to know what buttons to push to get the job done.
 
