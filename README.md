@@ -14,7 +14,7 @@ if something is missing or not working.
 
 We have also included some pointers on where to go for shopping, sightseeing, etc.
 
-
+![Floorplan](floorplan.png)
 
 
 
