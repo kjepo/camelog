@@ -15,6 +15,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 ## Table of contents
 
 1. [ If you need assistance ](#assistance)
+ - [ Telephones ](#telephones)
+ - [ Power failure ](#powerfailure)
+
 2. [ Overview of the house ](#overview)
 
 
@@ -25,6 +28,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 <a name="assistance"></a>
 # 1. If you need assistance
 
+<a name="telephones"></a>
 ## Telephones
 
 You will notice that the reception for cellphones is very weak around here.
@@ -37,6 +41,7 @@ Telephone cards that use 800-numbers can be purchased in most grocery stores.
 (Make sure that the clerk understands that you're not asking for a *mobile*
 phone card.)
 
+<a name="powerfailure"></a>
 ## Power failure
 
 In the event of a power failure, a torch under the staircase should
