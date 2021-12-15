@@ -22,9 +22,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 
 2. [ Overview of the house ](#overview)
 
- - [ Kitchen ](#kitchen):
+ - [Kitchen](#kitchen):
   [ Dishwasher ](#dishwasher)| [ Washer/dryer ](#washerdryer)| [ Hob and oven ](#hoboven)| [ Microwave ](#microwave)
- - [ Living Area ](#livingarea):
+ - [Living Area](#livingarea):
   [ Sky TV ](#skytv)| [ Stereo ](#stereo)
 
 
