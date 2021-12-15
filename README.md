@@ -15,8 +15,10 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 ## Table of contents
 
 1. [ If you need assistance ](#assistance)
- - [ Telephones ](#telephones)
- - [ Power failure ](#powerfailure)
+ 1.1 [ Telephones ](#telephones)
+ 1.2 [ Power failure ](#powerfailure)
+ 1.3 [ Medical care ](#medicalcare)
+ 1.4 [ Your Caretaker ](#caretaker)
 
 2. [ Overview of the house ](#overview)
 
@@ -29,7 +31,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 # 1. If you need assistance
 
 <a name="telephones"></a>
-## Telephones
+## 1.1 Telephones
 
 You will notice that the reception for cellphones is very weak around here.
 The signal is slightly better on the deck outside.
@@ -42,13 +44,14 @@ Telephone cards that use 800-numbers can be purchased in most grocery stores.
 phone card.)
 
 <a name="powerfailure"></a>
-## Power failure
+## 1.2 Power failure
 
 In the event of a power failure, a torch under the staircase should
 come on.  There should also be some candles and matches in one of
 the kitchen dresser.
 
-## Medical care
+<a name="medicalcare"></a>
+## 1.3 Medical care
 
 Dial 999 or 112 only in an emergency where there is danger to life
 or a crime in progress.  This includes the Police, Fire Brigade,
@@ -78,7 +81,8 @@ dentist on duty, call NHS Direct on 0845-4647.
 Refer to page 12 and 13 in the Yellow Pages for other important 
 phone numbers.
 
-## Your caretaker
+<a name="caretaker"></a>
+## 1.4 Your caretaker
 
 There should be leaflets in the house with contact information.
 
