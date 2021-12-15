@@ -58,8 +58,7 @@ Here are some other useful numbers.
 - Hospitals:
 
 For serious injuries and sudden illness, call
-the Royal Cornwall Hospitals Trust
-Trelisk, Gloweth, in Truro: 01872-250000.
+the Royal Cornwall Hospital (Treliske) in Truro: 01872-250000.
 
 For other information such as how to contact a doctor or
 dentist on duty, call NHS Direct on 0845-4647.
@@ -67,8 +66,28 @@ dentist on duty, call NHS Direct on 0845-4647.
 Refer to page 12 and 13 in the Yellow Pages for other important 
 phone numbers.
 
+### Your caretaker
 
+There should be leaflets in the house with contact information.
 
+## Overview of the house
 
+The next few sections will describe where to find things
+(such as the ironing board) and give simple instructions on how to
+perform *typical jobs*, like washing some clothes.  
+We're assuming that you have used similar appliances
+before and just need to know what buttons to push to get the job done.
 
+You will find manuals for some of the appliances at the end of this 
+booklet in case you need to do something out of the ordinary,
+or simply forgot to bring a book for your holiday.
 
+Let us now start with the most button-populated part of the house, 
+namely the kitchen.
+
+### Kitchen
+
+As a general rule of thumb, if some of the appliances don't seem to
+work, please make sure that the socket switch is on.  For instance,
+the hob/oven, washing machine, washer/dryer and the extractor all
+have a main switch on the wall -- these are all labelled.
