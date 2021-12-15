@@ -12,6 +12,8 @@ if something is missing or not working.
 
 We have also included some pointers on where to go for shopping, sightseeing, etc.
 
+## Table of contents
+
 1. [ If you need assistance ](#assistance)
 2. [ Overview of the house ](#overview)
 
