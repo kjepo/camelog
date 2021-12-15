@@ -1,6 +1,4 @@
-# Operating Manuals for Camelog
-
-## Welcome to Camelog!
+# Welcome to Camelog!
 
 Welcome to Camelog, a genuine log house!
 
@@ -16,9 +14,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 
 ![Floorplan](floorplan.png)
 
-## If you need assistance
+# If you need assistance
 
-### Telephones
+## Telephones
 
 You will notice that the reception for cellphones is very weak around here.
 The signal is slightly better on the deck outside.
@@ -30,13 +28,13 @@ Telephone cards that use 800-numbers can be purchased in most grocery stores.
 (Make sure that the clerk understands that you're not asking for a *mobile*
 phone card.)
 
-### Power failure
+## Power failure
 
 In the event of a power failure, a torch under the staircase should
 come on.  There should also be some candles and matches in one of
 the kitchen dresser.
 
-### Medical care
+## Medical care
 
 Dial 999 or 112 only in an emergency where there is danger to life
 or a crime in progress.  This includes the Police, Fire Brigade,
@@ -66,11 +64,11 @@ dentist on duty, call NHS Direct on 0845-4647.
 Refer to page 12 and 13 in the Yellow Pages for other important 
 phone numbers.
 
-### Your caretaker
+## Your caretaker
 
 There should be leaflets in the house with contact information.
 
-## Overview of the house
+# Overview of the house
 
 The next few sections will describe where to find things
 (such as the ironing board) and give simple instructions on how to
@@ -85,14 +83,14 @@ or simply forgot to bring a book for your holiday.
 Let us now start with the most button-populated part of the house, 
 namely the kitchen.
 
-### Kitchen
+## Kitchen
 
 As a general rule of thumb, if some of the appliances don't seem to
 work, please make sure that the socket switch is on.  For instance,
 the hob/oven, washing machine, washer/dryer and the extractor all
 have a main switch on the wall -- these are all labelled.
 
-#### Dishwasher
+### Dishwasher
 
 The caretaker provides you with the first tablets needed to run the dishwasher.
 
@@ -114,7 +112,7 @@ Please do not wash wood, for instance knives with the wooden handles.
 Add photos/videos here, check buttons, times.
 ```
 
-#### Washer/dryer
+### Washer/dryer
 
 The following is just a simplified series of steps that
 tells you how to do a typical 40º wash of cotton clothes.
@@ -147,6 +145,10 @@ after the end of the programme.
 
 - Switch the machine off by depressing the ON/OFF button again, and
   the mains-on light goes out.
+
+```
+Add photos/videos here, check buttons, times.
+```
 
 
 
