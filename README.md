@@ -235,7 +235,7 @@ fixme: check buttons
 There are two remote controls, one for the TV and one for the Sky box.
 
 If the Sky box doesn't come on, press the `tv guide` button to
-wake it up.  If that doesn't help, make sure the TV using `HDMI 1`
+wake it up.  If that doesn't help, make sure the TV is using `HDMI 1`
 by clicking on the input select near the on/off switch on the
 black TV remote.
 
