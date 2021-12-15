@@ -49,6 +49,24 @@ the following:
  Telephone: 01841-540764
 ```
 
+Here are some other useful numbers.
+
+- Electricity: Western Power Distribution, 0800-365900.
+- Gas emergency: Transco, 0800-111999.
+- Water: South West Water, 0800-1691144.
+- Animal welfare: RSPCA, 0870-5555999.
+- Hospitals:
+
+For serious injuries and sudden illness, call
+the Royal Cornwall Hospitals Trust
+Trelisk, Gloweth, in Truro: 01872-250000.
+
+For other information such as how to contact a doctor or
+dentist on duty, call NHS Direct on 0845-4647.
+
+Refer to page 12 and 13 in the Yellow Pages for other important 
+phone numbers.
+
 
 
 
