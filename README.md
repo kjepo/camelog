@@ -234,20 +234,24 @@ fixme: check buttons
 
 There are two remote controls, one for the TV and one for the Sky box.
 
-Since there is no aerial, you'll be using Sky for watching the regular channels.
-You may already be familiar with Sky's remote control, but if you're not
-we would suggest hitting the `tv guide` button followed by `1`
-and then walk through the various channels using the up and down arrow keys.  
-When you have found a channel that looks interesting, simply 
-press `select`.
-If at any time you get lost in the Sky menus and just want to go back to
-viewing one of the channels, press the `Sky` button.
+If the Sky box doesn't come on, press the `tv guide` button to
+wake it up.  If that doesn't help, make sure the TV using `HDMI 1`
+by clicking on the input select near the on/off switch on the
+black TV remote.
 
-There's also a DVD player with some films in the drawer underneath the TV.
+The TV has a USB port on the left hand side if you have films or
+photos on a USB flashdrive.  There's also a Google Chromecast
+if you want to cast Youtube videos etc from your phone or tablet.
+
+Finally, there is also a DVD player with some films in the drawer underneath the TV.
 
 <a name="stereo"></a>
 ### Stereo
-The stereo can play off your phone if you connect with a USB-cable.
+The stereo can play off your phone if you connect with a USB-cable
+or if you pair it with Bluetooth:
+
+- Press `BT Audio`.  "Pairing" wil be displayed.
+- On your phone, select the `X-CM32` device.
 
 Radio reception is (you guessed it) weak around here.  We recommend
 listening to the radio via one of the Sky channels.  Select 
