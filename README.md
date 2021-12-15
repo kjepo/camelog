@@ -91,3 +91,24 @@ As a general rule of thumb, if some of the appliances don't seem to
 work, please make sure that the socket switch is on.  For instance,
 the hob/oven, washing machine, washer/dryer and the extractor all
 have a main switch on the wall -- these are all labelled.
+
+#### Dishwasher
+
+The caretaker provides you with the first tablets needed to run the dishwasher.
+
+- Scrape or rinse off excess food and put the crockery in the machine.
+- Put a tablet in the compartment and slide the lid over it until it 
+  snaps on, as shown in the picture.
+- Turn on the machine by pressing the button appearing in the
+ lower left corner in the picture.
+- Shut the door and the dishwasher will start.
+- After about 2.5 hours the machine will beep five times, 
+ signalling it is done.  (It will beep again
+ after another ten minutes, and then again, and then one more time,
+ but will stay quiet after that.)
+- Open the door, turn off the power and let the crockery dry.
+
+Please do not wash wood, for instance knives with the wooden handles.
+
+
+
