@@ -12,8 +12,15 @@ if something is missing or not working.
 
 We have also included some pointers on where to go for shopping, sightseeing, etc.
 
+1. [ If you need assistance ](#assistance)
+2. [ Overview of the house ](#overview)
+
+
+
+
 ![Floorplan](floorplan.png)
 
+<a name="assistance"></a>
 # If you need assistance
 
 ## Telephones
@@ -68,6 +75,7 @@ phone numbers.
 
 There should be leaflets in the house with contact information.
 
+<a name="overview"></a>
 # Overview of the house
 
 The next few sections will describe where to find things
