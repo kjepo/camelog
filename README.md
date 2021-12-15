@@ -23,7 +23,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 ![Floorplan](floorplan.png)
 
 <a name="assistance"></a>
-# If you need assistance
+# 1. If you need assistance
 
 ## Telephones
 
@@ -78,7 +78,7 @@ phone numbers.
 There should be leaflets in the house with contact information.
 
 <a name="overview"></a>
-# Overview of the house
+# 2. Overview of the house
 
 The next few sections will describe where to find things
 (such as the ironing board) and give simple instructions on how to
