@@ -25,6 +25,12 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [ Kitchen ](#kitchen)
   - [ Dishwasher ](#dishwasher)
   - [ Washer/dryer ](#washerdryer)
+  - [ Hob and oven ](#hoboven)
+  - [ Microwave ](#microwave)
+
+ - [ Living Area ](#livingarea)
+  - [ Sky TV ](#skytv)
+  - [ Stereo ](#stereo)
 
 
 ![Floorplan](floorplan.png)
@@ -132,7 +138,7 @@ The caretaker provides you with the first tablets needed to run the dishwasher.
 Please do not wash wood, for instance knives with the wooden handles.
 
 ```
-Add photos/videos here, check buttons, times.
+fixme: Add photos/videos here, check buttons, times.
 ```
 
 <a name="washerdryer"></a>
@@ -171,9 +177,85 @@ after the end of the programme.
   the mains-on light goes out.
 
 ```
-Add photos/videos here, check buttons, times.
+fixme: Add photos/videos here, check buttons, times.
 ```
 
+<a name="hoboven"></a>
+### Hob and oven
 
+The induction hob works just like a regular electrical hob,
+but pots and pans must be made of steel or cast iron.
+If you have brought your own, pans made of aluminium, brass and copper
+won't work unless they're specially designed for induction and have a
+ferrous base. Stainless steel will only work if its base is made of magnetic
+grade steel.
 
+The oven has built-in timers that can either turn the oven on
+or off, or simply serve as a reminder alarm.  The manual for
+the oven explains it all quite well.
+
+For the typical heat-up-the-pizza job, turn the dial
+to `...` and set the temperature.  The red light
+goes off when the oven has reached that temperature.
+If you want to be reminded when your pizza is ready, 
+set the timer by first pressing the bell button and then use
+the `+` and `-` buttons to set the number of 
+minutes.  The oven will beep after that many minutes, but it won't
+turn itself off.
+
+```
+fixme: replace above with more up-to-date text
+```
+
+<a name="microwave"></a>
+### Microwave
+
+To heat up food you usually follow these steps.
+
+- Put your food container on the glass plate and close the door.
+ Use the plastic cover to prevent food from splashing the inside
+ of the microwave.
+
+- Set the timer using the `+` and `-` buttons.
+- Set the desired power by repeatedly pressing the `/` button.
+For a typical frozen dinner you would use 750 W. 
+- Press `Jet Start`.
+
+If you need to experiment with the microwave buttons, please put a mug
+of water inside the microwave to avoid running it empty.
+
+You can always open the door while the microwave is running to stop it.
+Closing the door and pressing `Jet Start` will continue with the program.  
+
+```
+fixme: check buttons
+```
+
+<a name="livingarea"></a>
+## Living Area
+
+<a name="skytv"></a>
+### Sky TV
+
+There are two remote controls, one for the TV and one for the Sky box.
+
+Since there is no aerial, you'll be using Sky for watching the regular channels.
+You may already be familiar with Sky's remote control, but if you're not
+we would suggest hitting the `tv guide` button followed by `1`
+and then walk through the various channels using the up and down arrow keys.  
+When you have found a channel that looks interesting, simply 
+press `select`.
+If at any time you get lost in the Sky menus and just want to go back to
+viewing one of the channels, press the `Sky` button.
+
+There's also a DVD player with some films in the drawer underneath the TV.
+
+<a name="stereo"></a>
+### Stereo
+The stereo can play off your phone if you connect with a USB-cable.
+
+Radio reception is (you guessed it) weak around here.  We recommend
+listening to the radio via one of the Sky channels.  Select 
+`tv guide` and then choose the category for Radio and Music to
+see what is available.
 
