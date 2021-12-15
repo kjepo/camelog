@@ -31,7 +31,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 # 1. If you need assistance
 
 <a name="telephones"></a>
-## 1.1 Telephones
+## Telephones
 
 You will notice that the reception for cellphones is very weak around here.
 The signal is slightly better on the deck outside.
@@ -44,16 +44,16 @@ Telephone cards that use 800-numbers can be purchased in most grocery stores.
 phone card.)
 
 <a name="powerfailure"></a>
-## 1.2 Power failure
+## Power failure
 
 In the event of a power failure, a torch under the staircase should
 come on.  There should also be some candles and matches in one of
 the kitchen dresser.
 
 <a name="medicalcare"></a>
-## 1.3 Medical care
+## Medical care
 
-Dial 999 or 112 only in an emergency where there is danger to life
+Dial `999` or `112` only in an emergency where there is danger to life
 or a crime in progress.  This includes the Police, Fire Brigade,
 Ambulance Service or Coastguard.  When asked for your adress, state
 the following:
@@ -66,23 +66,23 @@ the following:
 
 Here are some other useful numbers.
 
-- Electricity: Western Power Distribution, 0800-365900.
-- Gas emergency: Transco, 0800-111999.
-- Water: South West Water, 0800-1691144.
-- Animal welfare: RSPCA, 0870-5555999.
+- Electricity: Western Power Distribution, `0800-365900`.
+- Gas emergency: Transco, `0800-111999`.
+- Water: South West Water, `0800-1691144`.
+- Animal welfare: RSPCA, `0870-5555999`.
 - Hospitals:
 
 For serious injuries and sudden illness, call
-the Royal Cornwall Hospital (Treliske) in Truro: 01872-250000.
+the Royal Cornwall Hospital (Treliske) in Truro: `01872-250000`.
 
 For other information such as how to contact a doctor or
-dentist on duty, call NHS Direct on 0845-4647.
+dentist on duty, call NHS Direct on `0845-4647`.
 
 Refer to page 12 and 13 in the Yellow Pages for other important 
 phone numbers.
 
 <a name="caretaker"></a>
-## 1.4 Your caretaker
+## Your caretaker
 
 There should be leaflets in the house with contact information.
 
