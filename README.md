@@ -15,10 +15,10 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 ## Table of contents
 
 1. [ If you need assistance ](#assistance)
- 1.1 [ Telephones ](#telephones)
- 1.2 [ Power failure ](#powerfailure)
- 1.3 [ Medical care ](#medicalcare)
- 1.4 [ Your Caretaker ](#caretaker)
+ - [ Telephones ](#telephones)
+ - [ Power failure ](#powerfailure)
+ - [ Medical care ](#medicalcare)
+ - [ Your Caretaker ](#caretaker)
 
 2. [ Overview of the house ](#overview)
 
