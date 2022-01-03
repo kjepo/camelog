@@ -223,7 +223,7 @@ To heat up food you usually follow these steps.
  of the microwave.
 
 - Set the timer using the `+` and `-` buttons.
-- Set the desired power by repeatedly pressing the &#x25FF button.
+- Set the desired power by repeatedly pressing the `&#x25FF;` button.
 For a typical frozen dinner you would use 750 W. 
 - Press `Jet Start`.
 
