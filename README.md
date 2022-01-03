@@ -285,7 +285,6 @@ knob is pressed in.  It is not possible to accidentally leave gas running.
 
 <p>
 The left figure shows the thermostat knob (left) and control knob (right).
-
 The right figure shows where the spark will occur.
 </p>
 
