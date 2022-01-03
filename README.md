@@ -28,6 +28,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [Living Area](#livingarea):
   [ Sky TV ](#skytv)| [ Stereo ](#stereo)| [ Fireplace ](#fireplace)
  - [Downstairs bathroom](#downstairsbathroom)
+ - [Patio and garden](#patio-garden)
 
 ![Floorplan](floorplan.png)
 
@@ -353,3 +354,16 @@ If the whirlpool button doesn't work, someone may have turned off
 the master switch on the other side of the wall, in bedroom 2.
 If you have problems turning the whirlpool off, you might be holding
 the button down for too long - it only needs to be quickly tapped.
+
+<a name="patio-garden"></a>
+## The patio and garden
+
+
+We don't provide a barbecue as we don't have a facility for
+handling hot ashes.  If you are bringing your own grill
+please *do not* barbecue on the patio and *do not* leave
+hot ashes in the garbage bin.
+
+The mattresses for the patio chairs are stored in the box outside
+on the patio.  During the winter season they might be locked up
+in the shed.
