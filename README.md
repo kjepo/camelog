@@ -405,8 +405,8 @@ which has a dial which you can just turn to a desired temperature - no need
 to click, just turn the dial.
 
 The other thermostats are programmed to maintain reasonable temperatures
-throughout the day.  If you're hot or cold, please don't re-program the
-settings.  Rather decrease or increase the temperature using the arrow keys.
+throughout the day.  If you're hot or cold, you can temporarily decrease
+or increase the temperature using the arrow keys.
 This will adjust the setting temporarily until the next time slot.
 
 
