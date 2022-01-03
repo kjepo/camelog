@@ -303,38 +303,30 @@ counterclockwise to position 6.  Then turn the control knob
 counterclockwise until reaching a stop, roughly when the dial
 is pointing straight up.  Now press down the control knob and hold
 for about five seconds - you will hear the pilot gas flowing.
-
-While still pressing down the knob, turn further counterclockwise
+- While still pressing down the knob, turn further counterclockwise
 to activate the piezo spark (you will hear it).
 Keep the knob down for a further
 ten seconds after the pilot has been lit.  You should be able
 to see the pilot spark as shown in the photo above.
 If the pilot does not light, turn the control knob back to where
 the pilot gas is flowing and try again.
-
-When the pilot has been lit (after about 10 seconds), release the
+- When the pilot has been lit (after about 10 seconds), release the
 knob and turn the control knob counterclockwise so that the
 dial is pointing towards you.  The main burner will now light
 and burn in accordance with the thermostat knob setting.
-
-At any of the temperature settings the stove may operate at any input
+- At any of the temperature settings the stove may operate at any input
 between the maximum and minimum or if the room temperature continues
 to rise, the main burner may switch off.  As the room temperature
 falls the main burner will light again.
-
 - If the pilot is extinguished during use of the stove, you <i>must</i>
 wait ten minutes before repeating the ignition procedure.
-
 - To turn the main burner off, keeping the pilot flame lit, turn the
 control knob clockwise back to the pilot position (dial pointing upwards).
 After a while, the burner flames die out and only the pilot will remain lit.
-
-Running only the pilot is inexpensive and simplifies turning the stove back on.
-
+- Running only the pilot is inexpensive and simplifies turning the stove back on.
 - To shut the stove off completely, press the control knob down and 
 continue turning clockwise until the dial is pointing away from you.  When the
 stove is off you won't hear the gas flowing.
-
 - A safety interlock prevents re-ignition of the pilot flame until the
 thermocouple has cooled sufficiently to allow the magnetic valve unit
 to reset itself. The elapse time depends on the temperature of the stove.
