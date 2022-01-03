@@ -43,7 +43,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 4. [Useful places](#places):
 
   - [ Pharmacies ](#pharmacies)| [ Movie theathres ](#movie)|
-  [ Grocery shopping](#grocery)| [ Pubs ](#pubs)| [ Padstow ](#padstow)| [ Wadebridge ](#wadebridge)|
+  [ Grocery shopping](#grocery) | [ Pubs ](#pubs)| [ Padstow ](#padstow)| [ Wadebridge ](#wadebridge)|
   [ Truro ](#truro)
 
 ![Floorplan](floorplan.png)
