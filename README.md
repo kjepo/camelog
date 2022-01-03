@@ -267,7 +267,7 @@ listening to the radio via one of the Sky channels.  Select
 see what is available.
 
 <a name="fireplace"></a>
-### fireplace
+### Fireplace
 
 <p>
 The fireplace features a flueless gas stove, capable of giving off
