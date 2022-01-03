@@ -284,8 +284,9 @@ knob is pressed in.  It is not possible to accidentally leave gas running.
 ![Fireplace](fireplace.jpg)
 
 <p>
-The left figure shows where the spark will occur.
-The right figure shows the thermostat knob (left) and control knob (right).
+The left figure shows the thermostat knob (left) and control knob (right).
+
+The right figure shows where the spark will occur.
 </p>
 
 <p>
