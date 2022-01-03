@@ -508,8 +508,8 @@ For other golf clubs, see the Yellow Pages under "Golf Clubs".
 <a name="pharmacies"></a>
 ## Pharmacies
 
-There is a Boots halfway up Molesworth Street in Wadebridge.  Tesco in
-Truro stay open later and has a pharmacy section, call `01872-357400`.
+There is a <a href="https://www.google.com/maps/place/Boots/@50.5160094,-4.8381324,17z/data=!3m1!4b1!4m5!3m4!1s0x486b76bde5102a57:0x196f70ef733d0d0f!8m2!3d50.5160008!4d-4.8359962">Boots</a> in Wadebridge.
+<a href="https://www.google.com/maps/place/Tesco+Superstore/data=!4m5!3m4!1s0x486b16486b6386e9:0x9527b01fc25408fa!8m2!3d50.2608871!4d-5.046934">Tesco</a> in Truro stay open later and has a pharmacy section, call `01872-357400`.
 
 <a name="movie"></a>
 ## Movie theatres
