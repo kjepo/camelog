@@ -139,7 +139,7 @@ fixme: Add photos/videos here, check buttons, times.
 <a name="washerdryer"></a>
 ### Washer/dryer
 
-<a href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
+<a target="blank" href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
 
 
 
