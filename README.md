@@ -206,6 +206,8 @@ or so after the end of the programme.
 <a name="hoboven"></a>
 ### Hob and oven
 
+[Manual for Neff hob](neff-hob.pdf)
+
 The induction hob works just like a regular electrical hob,
 but pots and pans must be made of steel or cast iron.
 If you have brought your own, pans made of aluminium, brass and copper
