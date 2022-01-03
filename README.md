@@ -32,6 +32,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [Bedrooms](#bedrooms)
  - [Ironing](#ironing)
  - [Cot and high chair](#cot)
+ - [Heating/thermostats](#heating)
 
 ![Floorplan](floorplan.png)
 
@@ -393,7 +394,20 @@ to pull the floor up.
 If you need to rent other types of cots, buggies, safety gates, etc,
 try Babes & Bikes on 9 Polmorla Walk, Wadebridge `01208-815262`.
 
+<a name="heating"></a>
+## Heating and thermostats
 
+The house is heated with underfloor heating, divided up into five
+different zones, each controlled by an individual thermostat.
+
+There is one thermostat, next to the sofa in the downstairs living room,
+which has a dial which you can just turn to a desired temperature - no need
+to click, just turn the dial.
+
+The other thermostats are programmed to maintain reasonable temperatures
+throughout the day.  If you're hot or cold, please don't re-program the
+settings.  Rather decrease or increase the temperature using the arrow keys.
+This will adjust the setting temporarily until the next time slot.
 
 
 
