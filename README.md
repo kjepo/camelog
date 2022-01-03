@@ -44,7 +44,7 @@ The telephone in the kitchen accepts incoming calls to 01841-540764 but
 outgoing calls are restricted to emergency calls and 800-calls.
 
 Telephone cards that use 800-numbers can be purchased in most grocery stores.
-(Make sure that the clerk understands that you're not asking for a *mobile*
+(Make sure that the clerk understands that you're not asking for a <i>mobile</i>
 phone card.)
 
 <a name="powerfailure"></a>
@@ -95,7 +95,7 @@ There should be leaflets in the house with contact information.
 
 The next few sections will describe where to find things
 (such as the ironing board) and give simple instructions on how to
-perform *typical jobs*, like washing some clothes.
+perform <i>typical jobs</i>, like washing some clothes.
 We're assuming that you have used similar appliances
 before and just need to know what buttons to push to get the job done.
 
@@ -171,7 +171,7 @@ located on the wall above the worktop surface.
 
 - Put in a detergent tablet (a few should be supplied), 
   with the rest of the clothes.
-- Turn the rightmost dial *clockwise* to `D`.
+- Turn the rightmost dial <i>clockwise</i> to `D`.
 - Optionally add softener to the pull-out tray, rightmost compartment.
 - Start the machine by pressing the ON/OFF button which is the 
   rightmost of the rectangular buttons.  The mains-on light
