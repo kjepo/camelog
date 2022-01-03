@@ -38,7 +38,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 3. [Tourist attractions](#attractions):
 
   - [ Eden Project ](#eden)| [ Tintagel ](#tintagel)| [ Beaches ](#beaches)| [ Walking ](#walking)|
-  [ Biking ](#biking)| [ Golf ](#golf)|
+  [ Biking ](#biking)| [ Golf ](#golf)
 
 4. [Useful places](#places):
 
