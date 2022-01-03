@@ -46,7 +46,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
   [ Grocery shopping](#grocery) | [ Pubs ](#pubs)| [ Padstow ](#padstow)| [ Wadebridge ](#wadebridge)|
   [ Truro ](#truro)
 
-![Floorplan](floorplan.png)
+![Floorplan](img/floorplan.png)
 
 <a name="assistance"></a>
 # 1. If you need assistance
@@ -206,7 +206,7 @@ or so after the end of the programme.
 <a name="hoboven"></a>
 ### Hob and oven
 
-[Manual for Neff hob](neff-hob.pdf)
+[Manual for Neff hob](manuals/neff-hob.pdf)
 
 The induction hob works just like a regular electrical hob,
 but pots and pans must be made of steel or cast iron.
@@ -285,7 +285,7 @@ listening to the radio via one of the Sky channels.  Select
 `tv guide` and then choose the category for Radio and Music to
 see what is available.
 
-<a name="fireplace"></a>
+<a name="img/fireplace"></a>
 ### Fireplace
 
 <p>
