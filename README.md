@@ -29,6 +29,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
   [ Sky TV ](#skytv)| [ Stereo ](#stereo)| [ Fireplace ](#fireplace)
  - [Downstairs bathroom](#downstairsbathroom)
  - [Patio and garden](#patio-garden)
+ - [Bedrooms](#bedrooms)
+ - [Ironing](#ironing)
+ - [Cot and high chair](#cot)
 
 ![Floorplan](floorplan.png)
 
@@ -358,12 +361,39 @@ the button down for too long - it only needs to be quickly tapped.
 <a name="patio-garden"></a>
 ## The patio and garden
 
-
 We don't provide a barbecue as we don't have a facility for
 handling hot ashes.  If you are bringing your own grill
 please *do not* barbecue on the patio and *do not* leave
 hot ashes in the garbage bin.
 
-The mattresses for the patio chairs are stored in the box outside
+The mattresses for the patio chairs and seat cushions are stored in the box outside
 on the patio.  During the winter season they might be locked up
-in the shed.
+in the shed or stored under the staircase.
+
+<a name="bedrooms"></a>
+## Bedrooms
+
+Each bedroom has a firm and a medium firm mattress. 
+The firm one is always on the right side as you come into the room.
+
+<a name="ironing"></a>
+## Ironing
+
+There is an iron and an ironing board in bedroom 3's cupboard.
+The black handle under the ironing board releases the legs.
+Hold it again when collapsing the board.
+
+<a name="cot"></a>
+## Cot and high chair
+
+A cot and a high chairs are also found in bedroom 3's cupboard.
+To fold the cot back together, remove the pad and use the hole
+to pull the floor up.
+
+If you need to rent other types of cots, buggies, safety gates, etc,
+try Babes & Bikes on 9 Polmorla Walk, Wadebridge `01208-815262`.
+
+
+
+
+
