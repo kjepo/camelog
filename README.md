@@ -36,6 +36,10 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [Garbage](#garbage)
 
 3. [Tourist attractions](#attractions)
+  [ Eden Project ](#eden)| [ Tintagel ](#tintagel)| [ Beaches ](#beaches)| [ Walking ](#walking)|
+  [ Biking ](#biking)| [ Golf ](#golf)| [ Pharmacies ](#pharmacies)| [ Movie theathres ](#movie)|
+  [ Grocery shopping](#grocery)| [ Pubs ](#pubs)| [ Padstow ](#padstow)| [ Wadebridge ](#wadebridge)|
+  [ Truro ](#truro)
 
 ![Floorplan](floorplan.png)
 
@@ -426,6 +430,7 @@ Included here are just a few local attractions around North Cornwall.
 For more information, please consult the AA's guide to Cornwall in 
 the bookshelf.
 
+<a name="eden"></a>
 ## The Eden Project
 
 Unless you've been marooned on an island for a long time, you must
@@ -436,6 +441,7 @@ and only half an hour's drive away from here.
 Plan to spend around two to three hours there.  It is sensible to wear layers
 of clothing as parts of the tour is warm and humid.
 
+<a name="tingtagel"></a>
 ## Tintagel Castle
 
 While it is difficult to say whether King Arthur really existed, 
@@ -456,6 +462,7 @@ In combination with a trip to Tintagel you could also visit Boscastle
 (now rebuilt after the flash flood) or enjoy a pint on the way back
 at Port William's pub, Trebarwith strand.
 
+<a name="beaches"></a>
 ## Beaches
 
 On the Padstow side of the estuary is Harlyn bay and Trevone bay.
@@ -465,12 +472,14 @@ Padstow's harbor.  For longer stretches of sand, either drive or take
 the ferry over to Rock and Daymer bay on the other side of the
 estuary.
 
+<a name="walking"></a>
 ## Walking
 
 Local footpaths leading into Padstow start in Little Petherick and
 initially follows the creek on this side of the bridge (Saints' road).
 The trail is about 3 miles and finally merges with the Camel Trail.
 
+<a name="biking"></a>
 ## Biking
 
 We really recommend going on the Camel Trail: it is flat, it is
@@ -482,16 +491,19 @@ Bridge Bike Hire in Wadebridge `01208-813050`;
 you'll find them along with similar businesses as you drive into
 Wadebridge.  They are all conveniently located next to the Camel Trail.
 
+<a name="golf"></a>
 ## Golf
 
 Near Constantine Bay is Trevose Golf and Country Club, `01841-520208`.
 For other golf clubs, see the Yellow Pages under "Golf Clubs".
 
+<a name="pharmacies"></a>
 ## Pharmacies
 
 There is a Boots halfway up Molesworth Street in Wadebridge.  Tesco in
 Truro stay open later and has a pharmacy section, call `01872-357400`.
 
+<a name="movie"></a>
 ## Movie theatres
 If you are bored with Sky and DVDs you can visit the
 local movie theatre in Wadebridge
@@ -499,6 +511,7 @@ local movie theatre in Wadebridge
 - <a href="https://wtwcinemas.co.uk/wadebridge/whats-on/">Regal Cinema</a>
 The Platt in Wadebridge, telephone `01208-812791`
 
+<a name="grocery"></a>
 ## Grocery shopping
 
 There is a Tesco in Padstow, five minutes away by car.  A larger Tesco
@@ -511,6 +524,7 @@ Driving a little bit further to Truro, there is Waitrose outside near the Park R
 Marks \& Spencer located conveniently near the centre with indoor parking
 and Sainsbury's up on the other side of Truro.
 
+<a name="pubs"></a>
 ## Pubs
 
 A list of some nearby pubs:
@@ -518,6 +532,7 @@ A list of some nearby pubs:
 - Pickwick in Burgois, `01841-540361`.
 - Ring o'Bells in St Issey, `01841-540251`.
 
+<a name="padstow"></a>
 ## 5 minutes away: Padstow
 
 Padstow is the little fishing village known for its seafood
@@ -536,11 +551,13 @@ all the way to Poley's Bridge in the foothills of Bodmin Moor.  If you
 want to go on the Camel Trail you may want to rent a bicycle in
 Wadebridge, bike to Padstow, have lunch, and then go back.
 
+<a name="wadebridge"></a>
 ## 10 minutes away: Wadebridge
 
 Wadebridge is the town you would go into for everyday errands.
 Here you will find a post office, pharmacy, groceries, etc.
 
+<a name="truro"></a>
 ## 30 minutes away: Truro
 
 Truro is the capital of Cornwall and was recently awarded the
