@@ -522,7 +522,8 @@ The Platt in Wadebridge, telephone `01208-812791`
 <a name="grocery"></a>
 ## Grocery shopping
 
-There is a Tesco in Padstow, five minutes away by car.  A larger Tesco
+There is a [Tesco](https://www.google.com/maps/place/Tesco+Superstore/@50.5351339,-4.9482304,17z/data=!3m1!4b1!4m5!3m4!1s0x486b7526e2947f33:0xdcd02990bb2c5d88!8m2!3d50.5351339!4d-4.9460417)
+in Padstow, five minutes away by car.  A larger Tesco
 with longer opening hours is found ten minutes away on this side of
 Wadebridge.
 
