@@ -285,7 +285,7 @@ listening to the radio via one of the Sky channels.  Select
 `tv guide` and then choose the category for Radio and Music to
 see what is available.
 
-<a name="img/fireplace.jpg"></a>
+<a name="fireplace"></a>
 ### Fireplace
 
 <p>
@@ -300,7 +300,7 @@ The stove is fail-proof in that gas is only flowing when the control
 knob is pressed in.  It is not possible to accidentally leave gas running.
 </p>
 
-![Fireplace](fireplace.jpg)
+![Fireplace](img/fireplace.jpg)
 
 <p>
 The left figure shows the thermostat knob (left) and control knob (right).
