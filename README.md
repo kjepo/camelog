@@ -26,7 +26,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [Kitchen](#kitchen):
   [ Dishwasher ](#dishwasher)| [ Washer/dryer ](#washerdryer)| [ Hob and oven ](#hoboven)| [ Microwave ](#microwave)
  - [Living Area](#livingarea):
-  [ Sky TV ](#skytv)| [ Stereo ](#stereo)
+  [ Sky TV ](#skytv)| [ Stereo ](#stereo)| [ Fireplace ](#fireplace)
 
 
 ![Floorplan](floorplan.png)
@@ -265,4 +265,81 @@ Radio reception is (you guessed it) weak around here.  We recommend
 listening to the radio via one of the Sky channels.  Select 
 `tv guide` and then choose the category for Radio and Music to
 see what is available.
+
+<a name="fireplace"></a>
+### fireplace
+
+<p>
+The fireplace features a flueless gas stove, capable of giving off
+about 3kWs of heat.  On the bottom right side of the stove there are
+two knobs.  The one closest to you is the *thermostat while the
+one further back is the *control knob*.
+</p>
+
+<p>
+The stove is fail-proof in that gas is only flowing when the control
+knob is pressed in.  It is not possible to accidentally leave gas running.
+</p>
+
+![Fireplace](fireplace.jpg)
+
+<p>
+The left figure shows where the spark will occur.
+The right figure shows the thermostat knob (left) and control knob (right).
+</p>
+
+<p>
+To light the stove, follow these instructions:
+
+- It is a lot easier to start the fire if you can hear what is going on,
+so turn off the TV and stereo before you begin.
+- Stand on your knees so that you can see the hole in the left
+hand side of the matrix (see photo above).
+- If you can see a flame, the caretaker has probably already lit the stove
+and all you have to do to turn on the main burner is to turn 
+the control knob further counterclockwise.
+- If there is no flame, first turn the thermostat knob all the way 
+counterclockwise to position 6.  Then turn the control knob
+counterclockwise until reaching a stop, roughly when the dial
+is pointing straight up.  Now press down the control knob and hold
+for about five seconds - you will hear the pilot gas flowing.
+
+While still pressing down the knob, turn further counterclockwise
+to activate the piezo spark (you will hear it).
+Keep the knob down for a further
+ten seconds after the pilot has been lit.  You should be able
+to see the pilot spark as shown in the photo above.
+If the pilot does not light, turn the control knob back to where
+the pilot gas is flowing and try again.
+
+When the pilot has been lit (after about 10 seconds), release the
+knob and turn the control knob counterclockwise so that the
+dial is pointing towards you.  The main burner will now light
+and burn in accordance with the thermostat knob setting.
+
+At any of the temperature settings the stove may operate at any input
+between the maximum and minimum or if the room temperature continues
+to rise, the main burner may switch off.  As the room temperature
+falls the main burner will light again.
+
+- If the pilot is extinguished during use of the stove, you *must*
+wait ten minutes before repeating the ignition procedure.
+
+- To turn the main burner off, keeping the pilot flame lit, turn the
+control knob clockwise back to the pilot position (dial pointing upwards).
+After a while, the burner flames die out and only the pilot will remain lit.
+
+Running only the pilot is inexpensive and simplifies turning the stove back on.
+
+- To shut the stove off completely, press the control knob down and 
+continue turning clockwise until the dial is pointing away from you.  When the
+stove is off you won't hear the gas flowing.
+
+- A safety interlock prevents re-ignition of the pilot flame until the
+thermocouple has cooled sufficiently to allow the magnetic valve unit
+to reset itself. The elapse time depends on the temperature of the stove.
+</p>
+
+
+
 
