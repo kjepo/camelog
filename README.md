@@ -139,6 +139,10 @@ fixme: Add photos/videos here, check buttons, times.
 <a name="washerdryer"></a>
 ### Washer/dryer
 
+<a href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
+
+
+
 The following is just a simplified series of steps that
 tells you how to do a typical 40º wash of cotton clothes.
 For more elaborate programmes, please refer to the more detailed manual
@@ -147,33 +151,22 @@ for the washing machine in this file.
 If the machine doesn't respond, check first that the power switch is on,
 located on the wall above the worktop surface.
 
-- Ensure that the machine isn't turned on (no red lights on).
-- Open the door by pulling the catch outward.
-
-- If you have a detergent tablet (a few should be supplied), 
-  put it in a bag with the rest of the clothes.
-- If you are using powder detergent, pull out the tray and fill up the 
-  middle compartment.  The more detailed manual tells you
-  what detergents should be used and what the various compartments are for.
-
+- Put in a detergent tablet (a few should be supplied), 
+  with the rest of the clothes.
 - Turn the rightmost dial *clockwise* to `D`.
-  You may have to pop the dial out by first pushing on it.
+- Optionally add softener to the pull-out tray, rightmost compartment.
 - Start the machine by pressing the ON/OFF button which is the 
   rightmost of the rectangular buttons.  The mains-on light
   comes on and the machine starts operating.
 
-The program takes roughly two hours.  The washing cycle stops 
-when the right dial is between `G` and `F`.
+The program takes roughly two hours.
 
-The door is controlled by a safety device which releases 2 minutes 
-after the end of the programme. 
+The door is controlled by a safety device which releases a minute
+or so after the end of the programme.
 
 - Switch the machine off by depressing the ON/OFF button again, and
   the mains-on light goes out.
 
-```
-fixme: Add photos/videos here, check buttons, times.
-```
 
 <a name="hoboven"></a>
 ### Hob and oven
