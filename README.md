@@ -38,7 +38,11 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 3. [Tourist attractions](#attractions):
 
   - [ Eden Project ](#eden)| [ Tintagel ](#tintagel)| [ Beaches ](#beaches)| [ Walking ](#walking)|
-  [ Biking ](#biking)| [ Golf ](#golf)| [ Pharmacies ](#pharmacies)| [ Movie theathres ](#movie)|
+  [ Biking ](#biking)| [ Golf ](#golf)|
+
+4. [Useful places](#places):
+
+  - [ Pharmacies ](#pharmacies)| [ Movie theathres ](#movie)|
   [ Grocery shopping](#grocery)| [ Pubs ](#pubs)| [ Padstow ](#padstow)| [ Wadebridge ](#wadebridge)|
   [ Truro ](#truro)
 
@@ -497,6 +501,9 @@ Wadebridge.  They are all conveniently located next to the Camel Trail.
 
 Near Constantine Bay is Trevose Golf and Country Club, `01841-520208`.
 For other golf clubs, see the Yellow Pages under "Golf Clubs".
+
+<a name="places"></a>
+# Useful places
 
 <a name="pharmacies"></a>
 ## Pharmacies
