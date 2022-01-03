@@ -285,7 +285,7 @@ listening to the radio via one of the Sky channels.  Select
 `tv guide` and then choose the category for Radio and Music to
 see what is available.
 
-<a name="img/fireplace"></a>
+<a name="img/fireplace.jpg"></a>
 ### Fireplace
 
 <p>
