@@ -272,7 +272,7 @@ see what is available.
 <p>
 The fireplace features a flueless gas stove, capable of giving off
 about 3kWs of heat.  On the bottom right side of the stove there are
-two knobs.  The one closest to you is the **thermostat** while the
+two knobs.  The one closest to you is the <i>thermostat</i> while the
 one further back is the <i>control knob</i>.
 </p>
 
