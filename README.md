@@ -27,7 +27,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
   [ Dishwasher ](#dishwasher)| [ Washer/dryer ](#washerdryer)| [ Hob and oven ](#hoboven)| [ Microwave ](#microwave)
  - [Living Area](#livingarea):
   [ Sky TV ](#skytv)| [ Stereo ](#stereo)| [ Fireplace ](#fireplace)
-
+ - [Downstairs bathroom](#downstairsbathroom)
 
 ![Floorplan](floorplan.png)
 
@@ -332,6 +332,27 @@ thermocouple has cooled sufficiently to allow the magnetic valve unit
 to reset itself. The elapse time depends on the temperature of the stove.
 </p>
 
+<a name="downstairsbathroom"></a>
+## Downstairs bathroom
 
+If you intend to use the whirlpool facility in the bath tub,
+we recommend that you first fill up the tub so that the water
+is roughly at the level of the seat, or at least above the jets,
+<i>before</i> turning on the jets.  
+Turning on the whirlpool with less water will send water all over
+the bath room.
 
+An artifact of the combination boiler is that water tends to 
+be hotter when the tap is not fully open.  
 
+The whirlpool has a tendency to produce large amounts of foam
+when bubble bath is added.  It is therefore best to add the liquid
+gradually - a couple of spoons is usually enough.
+
+There are two controls at the right side of the tub, one button to
+turn on the whirlpool and one dial to set the intensity of the jets.
+If the whirlpool button doesn't work, someone may have turned off
+the master switch on the other side of the wall, in bedroom 2.
+
+If you have problems turning the whirlpool off, you might be holding
+the button down for too long - it only needs to be quickly tapped.
