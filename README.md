@@ -109,7 +109,7 @@ namely the kitchen.
 <a name="wifi"></a>
 ## WIFI
 
-Camelog has fibre-optic broadband with speed up to 100 Mbit/s.
+Camelog has fibre-optic broadband with speeds up to 100 Mbit/s.
 The password is written on cards left around the house.
 There are two access points, `Camelog-2.4GHz` and `Camelog-5GHz`.
 They have the same speed: 2.4GHz has better reach but 5GHz is
@@ -118,7 +118,7 @@ usually less sensitive to interference from micro waves etc.
 The router itself is in bedroom 3's closet if you need to restart it.
 
 Please don't change any settings, download illegal material or engage
-in other criminal activities so that we can continue to offer free WIFI
+in criminal activities so that we can continue to offer free WIFI
 access.
 
 
@@ -223,7 +223,7 @@ To heat up food you usually follow these steps.
  of the microwave.
 
 - Set the timer using the `+` and `-` buttons.
-- Set the desired power by repeatedly pressing the `/` button.
+- Set the desired power by repeatedly pressing the `&#x25FF` button.
 For a typical frozen dinner you would use 750 W. 
 - Press `Jet Start`.
 
@@ -233,9 +233,6 @@ of water inside the microwave to avoid running it empty.
 You can always open the door while the microwave is running to stop it.
 Closing the door and pressing `Jet Start` will continue with the program.  
 
-```
-fixme: check buttons
-```
 
 <a name="livingarea"></a>
 ## Living Area
