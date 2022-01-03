@@ -33,6 +33,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [Ironing](#ironing)
  - [Cot and high chair](#cot)
  - [Heating/thermostats](#heating)
+ - [Garbage](#garbage)
+
+3. [Tourist attractions](#attractions)
 
 ![Floorplan](floorplan.png)
 
@@ -409,5 +412,139 @@ throughout the day.  If you're hot or cold, you can temporarily decrease
 or increase the temperature using the arrow keys.
 This will adjust the setting temporarily until the next time slot.
 
+<a name="garbage"></a>
+## Garbage
+
+Garbage is picked up on changeover (Saturdays).  Please seal the black bags
+before depositing them in the garbage bins.
 
 
+<a name="attractions"></a>
+# 3. Tourist attractions
+
+Included here are just a few local attractions around North Cornwall.
+For more information, please consult the AA's guide to Cornwall in 
+the bookshelf.
+
+## The Eden Project
+
+Unless you've been marooned on an island for a long time, you must
+have read about the Eden project or seen pictures of the large biomes.
+The Eden Project is supposedly the biggest tourist attraction in the UK
+and only half an hour's drive away from here.
+
+Plan to spend around two to three hours there.  It is sensible to wear layers
+of clothing as parts of the tour is warm and humid.
+
+## Tintagel Castle
+
+While it is difficult to say whether King Arthur really existed, 
+experts seems to agree that there was a great warrior in the
+west of England who had a fortress where Tintagel Castle is today.
+That original fortress is gone but archeologists seem to think that
+people lived there in the fifth century.  The replacement castle was 
+built between 1230-1236 but within two hundred years the castle 
+was in ruins and remains so to this day.
+
+Visiting the castle requires a bit of walking and climbing but with
+the new bridge it is much easier. Once you are at the top you can
+enjoy some beautiful coastal scenery.  Plan to spend at least an hour
+here and make sure it is open before you go down by calling
+`01840-770328`.
+
+In combination with a trip to Tintagel you could also visit Boscastle
+(now rebuilt after the flash flood) or enjoy a pint on the way back
+at Port William's pub, Trebarwith strand.
+
+## Beaches
+
+On the Padstow side of the estuary is Harlyn bay and Trevone bay.
+Further south is Newquay with some of the best surfing beaches in
+Europe.  For small secluded coves, follow the trail north out of
+Padstow's harbor.  For longer stretches of sand, either drive or take
+the ferry over to Rock and Daymer bay on the other side of the
+estuary.
+
+## Walking
+
+Local footpaths leading into Padstow start in Little Petherick and
+initially follows the creek on this side of the bridge (Saints' road).
+The trail is about 3 miles and finally merges with the Camel Trail.
+
+## Biking
+
+We really recommend going on the Camel Trail: it is flat, it is
+beautiful, and you can bike from Padstow to Wadebridge along
+the River Camel without any motor traffic.  
+
+Bikes can be rented in either Wadebridge or Padstow.  For instance,
+Bridge Bike Hire in Wadebridge `01208-813050`;
+you'll find them along with similar businesses as you drive into
+Wadebridge.  They are all conveniently located next to the Camel Trail.
+
+## Golf
+
+Near Constantine Bay is Trevose Golf and Country Club, `01841-520208`.
+For other golf clubs, see the Yellow Pages under "Golf Clubs".
+
+## Pharmacies
+
+There is a Boots halfway up Molesworth Street in Wadebridge.  Tesco in
+Truro stay open later and has a pharmacy section, call `01872-357400`.
+
+## Movie theatres
+If you are bored with Sky and DVDs you can visit the
+local movie theatre in Wadebridge
+
+- <a href="https://wtwcinemas.co.uk/wadebridge/whats-on/">Regal Cinema</a>
+The Platt in Wadebridge, telephone `01208-812791`
+
+## Grocery shopping
+
+There is a Tesco in Padstow, five minutes away by car.  A larger Tesco
+with longer opening hours is found ten minutes away on this side of
+Wadebridge.
+
+Downtown Wadebridge is the Co-op with lots of parking by the River Camel.
+
+Driving a little bit further to Truro, there is Waitrose outside near the Park Ride,
+Marks \& Spencer located conveniently near the centre with indoor parking
+and Sainsbury's up on the other side of Truro.
+
+## Pubs
+
+A list of some nearby pubs:
+
+- Pickwick in Burgois, `01841-540361`.
+- Ring o'Bells in St Issey, `01841-540251`.
+
+## 5 minutes away: Padstow
+
+Padstow is the little fishing village known for its seafood
+restaurants and, recently, Rick Stein's.  In the summer months, the
+narrow streets are packed with people who are there either to try the
+fresh fish, visit the many shops that stay open until late, or just
+sit by the harbor and look at the boats.
+
+A ferry takes you across the estuary to Rock and Daymer bay.  Make
+sure to visit the hushed church of St Enodoc where Sir John Betjeman
+is buried.
+
+Padstow is also the end of the Camel Trail, the old railway line which
+is now a cycle and footpath, winding 18 miles along the River Camel
+all the way to Poley's Bridge in the foothills of Bodmin Moor.  If you
+want to go on the Camel Trail you may want to rent a bicycle in
+Wadebridge, bike to Padstow, have lunch, and then go back.
+
+## 10 minutes away: Wadebridge
+
+Wadebridge is the town you would go into for everyday errands.
+Here you will find a post office, pharmacy, groceries, etc.
+
+## 30 minutes away: Truro
+
+Truro is the capital of Cornwall and was recently awarded the
+nomination "best little town" in the UK.  If you are a serious shopper
+and don't want to drive too far, Truro is the place to go.  You'll
+find plenty of parking at Marks & Spencer which is not free but
+available and close to the centre.
