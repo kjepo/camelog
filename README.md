@@ -22,6 +22,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 
 2. [ Overview of the house ](#overview)
 
+ - [WIFI](#wifi)
  - [Kitchen](#kitchen):
   [ Dishwasher ](#dishwasher)| [ Washer/dryer ](#washerdryer)| [ Hob and oven ](#hoboven)| [ Microwave ](#microwave)
  - [Living Area](#livingarea):
@@ -105,6 +106,25 @@ or simply forgot to bring a book for your holiday.
 Let us now start with the most button-populated part of the house, 
 namely the kitchen.
 
+<a name="wifi"></a>
+## WIFI
+
+Camelog has fibre-optic broadband with speed up to 100 Mbit/s.
+The password is written on cards left around the house.
+There are two access points, `Camelog-2.4GHz` and `Camelog-5GHz`.
+They have the same speed: 2.4GHz has better reach but 5GHz is
+usually less sensitive to interference from micro waves etc.
+
+The router itself is in bedroom 3's closet if you need to restart it.
+
+Please don't change any settings, download illegal material or engage
+in other criminal activities so that we can continue to offer free WIFI
+access.
+
+
+
+
+
 <a name="kitchen"></a>
 ## Kitchen
 
@@ -139,12 +159,10 @@ fixme: Add photos/videos here, check buttons, times.
 <a name="washerdryer"></a>
 ### Washer/dryer
 
-<a target="blank" href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
-
-
+<a href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
 
 The following is just a simplified series of steps that
-tells you how to do a typical 40º wash of cotton clothes.
+tells you how to do a typical 40ºC wash of cotton clothes.
 For more elaborate programmes, please refer to the more detailed manual
 for the washing machine in this file.
 
