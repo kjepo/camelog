@@ -35,7 +35,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [Heating/thermostats](#heating)
  - [Garbage](#garbage)
 
-3. [Tourist attractions](#attractions)
+3. [Tourist attractions](#attractions):
   [ Eden Project ](#eden)| [ Tintagel ](#tintagel)| [ Beaches ](#beaches)| [ Walking ](#walking)|
   [ Biking ](#biking)| [ Golf ](#golf)| [ Pharmacies ](#pharmacies)| [ Movie theathres ](#movie)|
   [ Grocery shopping](#grocery)| [ Pubs ](#pubs)| [ Padstow ](#padstow)| [ Wadebridge ](#wadebridge)|
