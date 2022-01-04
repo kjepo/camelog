@@ -153,6 +153,8 @@ have a main switch on the wall -- these are all labelled.
 <a name="dishwasher"></a>
 ### Dishwasher
 
+[Manual for dishwasher](manuals/dishwasher.pdf)
+
 The caretaker provides you with the first tablets needed to run the dishwasher.
 
 - Scrape or rinse off excess food and put the crockery in the machine.
