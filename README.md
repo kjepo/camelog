@@ -215,6 +215,8 @@ won't work unless they're specially designed for induction and have a
 ferrous base. Stainless steel will only work if its base is made of magnetic
 grade steel.
 
+[Manual for Neff oven](manuals/neff-oven.pdf)
+
 The oven has built-in timers that can either turn the oven on
 or off, or simply serve as a reminder alarm.  The manual for
 the oven explains it all quite well.
