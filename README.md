@@ -469,11 +469,12 @@ of clothing as parts of the tour is warm and humid.
 
 While it is difficult to say whether King Arthur really existed, 
 experts seems to agree that there was a great warrior in the
-west of England who had a fortress where Tintagel Castle is today.
-That original fortress is gone but archeologists seem to think that
-people lived there in the fifth century.  The replacement castle was 
-built between 1230-1236 but within two hundred years the castle 
-was in ruins and remains so to this day.
+west of England who had a fortress where
+[Tintagel Castle](https://www.english-heritage.org.uk/visit/places/tintagel-castle/)
+is today. That original fortress is gone but archeologists seem to
+think that people lived there in the fifth century.  The replacement
+castle was built between 1230-1236 but within two hundred years the
+castle was in ruins and remains so to this day.
 
 Visiting the castle requires a bit of walking and climbing but with
 the new bridge it is much easier. Once you are at the top you can
