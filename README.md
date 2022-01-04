@@ -429,6 +429,9 @@ There is one thermostat, next to the sofa in the downstairs living room,
 which has a dial which you can just turn to a desired temperature - no need
 to click, just turn the dial.
 
+[Thermostat manual](manual/thermostat.pdf)
+
+
 The other thermostats are programmed to maintain reasonable temperatures
 throughout the day.  If you're hot or cold, you can temporarily decrease
 or increase the temperature using the arrow keys.
