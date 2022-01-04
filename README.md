@@ -155,6 +155,11 @@ have a main switch on the wall -- these are all labelled.
 
 [Manual for dishwasher](manuals/dishwasher.pdf)
 
+<b>Note:</b> If the plates don't fit in the lower rack it means
+that someone has lowered the <i>upper rack</i>.  You can simply lift the
+basket to make sure the arm clears the plates. This is described on
+page 4 in the manual.
+
 The caretaker provides you with the first tablets needed to run the dishwasher.
 
 - Scrape or rinse off excess food and put the crockery in the machine.
