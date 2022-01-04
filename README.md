@@ -239,6 +239,8 @@ fixme: replace above with more up-to-date text
 <a name="microwave"></a>
 ### Microwave
 
+[Manual for Whirlpool microwave oven](manuals/microwave.pdf)
+
 To heat up food you usually follow these steps.
 
 - Put your food container on the glass plate and close the door.
