@@ -455,7 +455,9 @@ the bookshelf.
 ## The Eden Project
 
 Unless you've been marooned on an island for a long time, you must
-have read about the Eden project or seen pictures of the large biomes.
+have read about the
+[Eden project](https://www.edenproject.com)
+or seen pictures of the large biomes.
 The Eden Project is supposedly the biggest tourist attraction in the UK
 and only half an hour's drive away from here.
 
