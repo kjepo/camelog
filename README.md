@@ -225,7 +225,7 @@ For the typical heat-up-the-pizza job, turn the dial
 to `=` and set the temperature.  The red light
 goes off when the oven has reached that temperature.
 If you want to be reminded when your pizza is ready, 
-set the timer by first pressing the bell button and then use
+set the timer by first pressing the bell button &#x1F514; and then use
 the `+` and `-` buttons to set the number of 
 minutes.  The oven will beep after that many minutes, but it won't
 turn itself off.
