@@ -19,11 +19,11 @@ We have also included some pointers on where to go for shopping, sightseeing, et
  - [ Telephones ](#telephones)
  - [ Power failure ](#powerfailure)
  - [ Medical care ](#medicalcare)
+ - [WIFI](#wifi)
  - [ Your Caretaker ](#caretaker)
 
 2. [ Overview of the house ](#overview)
 
- - [WIFI](#wifi)
  - [Kitchen](#kitchen):
   [ Dishwasher ](#dishwasher)| [ Washer/dryer ](#washerdryer)| [ Hob and oven ](#hoboven)| [ Microwave ](#microwave)
  - [Living Area](#livingarea):
@@ -103,26 +103,6 @@ dentist on duty, call NHS Direct on `0845-4647`.
 Refer to page 12 and 13 in the Yellow Pages for other important 
 phone numbers.
 
-<a name="caretaker"></a>
-## Your caretaker
-
-There should be leaflets in the house with contact information.
-
-<a name="overview"></a>
-# 2. Overview of the house
-
-The next few sections will describe where to find things
-and give simple instructions on how to
-perform typical jobs, like washing some clothes.
-We're assuming that you have used similar appliances
-before and just need to know what buttons to push to get the job done.
-
-You will find links to manuals for some of the appliances in the
-document.
-
-Let us now start with the most button-populated part of the house, 
-namely the kitchen.
-
 <a name="wifi"></a>
 ## WIFI
 
@@ -138,8 +118,25 @@ Please don't change any settings, download illegal material or engage
 in criminal activities so that we can continue to offer free WIFI
 access.
 
+<a name="caretaker"></a>
+## Your caretaker
 
+There should be leaflets in the house with contact information.
 
+<a name="overview"></a>
+# 2. Overview of the house
+
+The next few sections will describe where to find things
+and give simple instructions on how to
+perform typical jobs, like washing some clothes.
+We're assuming that you have used similar appliances
+before and just need to know what buttons to push to get the job done.
+
+You will find links to manuals for some of the appliances throughout
+this document.
+
+Let us now start with the most button-populated part of the house, 
+namely the kitchen.
 
 
 <a name="kitchen"></a>
