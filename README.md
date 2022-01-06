@@ -7,10 +7,9 @@ If this is your first time in Camelog you may want to sit down,
 have a cup of tea, and spend a few minutes glancing through this
 document.
 
-If you are reading this on paper, you may also want to refer
-to the <a href="https://github.com/kjepo/camelog/">online version</a>
-of this document which is more up-to-date and contains links to
-manuals and other sites.
+If you are reading this on paper, you may also want to refer to the
+online version of this document which is more up-to-date and contains
+links to manuals and other sites: `github.com/kjepo/camelog/`
 
 Here you will find a list of what we provide, how to operate
 the appliances, and how to get in touch with the caretaker
