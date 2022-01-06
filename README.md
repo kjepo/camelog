@@ -176,6 +176,8 @@ have a main switch on the wall &mdash; these are all labelled.
 
 [Manual for dishwasher](manuals/dishwasher.pdf)
 
+[Instruction video for dishwasher](https://www.youtube.com/watch?v=M7D0U7y1tDk)
+
 <b>Note:</b> If the plates don't fit in the lower rack it means
 that someone has lowered the <i>upper rack</i>.  You can simply lift the
 basket to make sure the arm clears the plates. This is described on
@@ -186,20 +188,17 @@ The caretaker provides you with the first tablets needed to run the dishwasher.
 - Scrape or rinse off excess food and put the crockery in the machine.
 - Put a tablet in the compartment and slide the lid over it until it 
   snaps on, as shown in the picture.
-- Turn on the machine by pressing the button appearing in the
- lower left corner in the picture.
-- Shut the door and the dishwasher will start.
-- After about 2.5 hours the machine will beep five times, 
- signalling it is done.  (It will beep again
- after another ten minutes, and then again, and then one more time,
- but will stay quiet after that.)
+- Turn on the machine (leftmost button)
+- Select a program by pressing `P`, we recommend 65º.
+- Press the play button &#xe23a;
+- Shut the door within 4 seconds and the dishwasher will start.
+- After a couple of hours the machine will beep, 
+ signalling it is done.
 - Open the door, turn off the power and let the crockery dry.
 
 Please do not wash wood, for instance knives with the wooden handles.
 
-```
-fixme: Add photos/videos here, check buttons, times.
-```
+
 
 <a name="washerdryer"></a>
 ### Washer/dryer
