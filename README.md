@@ -4,7 +4,8 @@ Welcome to Camelog, a genuine log house!
 
 The aim of this manual is to simplify your vacation.
 If this is your first time in Camelog you may want to sit down,
-have some tea, and spend a few minutes glancing through these pages.
+have a cup of tea, and spend a few minutes glancing through this
+document.
 
 Here you will find a list of what we provide, how to operate
 the appliances, and how to get in touch with the caretaker
@@ -55,9 +56,9 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 ## Telephones
 
 You will notice that the reception for cellphones is very weak around here.
-The signal is slightly better on the deck outside.
+The signal is slightly better on the south-facing side.
 
-The telephone in the kitchen accepts incoming calls to 01841-540764 but
+The telephone in the kitchen accepts incoming calls to `01841-540764` but
 outgoing calls are restricted to emergency calls and 800-calls.
 
 Telephone cards that use 800-numbers can be purchased in most grocery stores.
@@ -111,14 +112,13 @@ There should be leaflets in the house with contact information.
 # 2. Overview of the house
 
 The next few sections will describe where to find things
-(such as the ironing board) and give simple instructions on how to
-perform <i>typical jobs</i>, like washing some clothes.
+and give simple instructions on how to
+perform typical jobs, like washing some clothes.
 We're assuming that you have used similar appliances
 before and just need to know what buttons to push to get the job done.
 
-You will find manuals for some of the appliances at the end of this 
-booklet in case you need to do something out of the ordinary,
-or simply forgot to bring a book for your holiday.
+You will find links to manuals for some of the appliances in the
+document.
 
 Let us now start with the most button-populated part of the house, 
 namely the kitchen.
