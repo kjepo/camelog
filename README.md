@@ -28,6 +28,7 @@ We have also included some pointers on where to go for shopping, sightseeing, et
 
 2. [ Overview of the house ](#overview)
 
+ - [Keys](#keys)
  - [Kitchen](#kitchen):
   [ Dishwasher ](#dishwasher)| [ Washer/dryer ](#washerdryer)| [ Hob and oven ](#hoboven)| [ Microwave ](#microwave)
  - [Living Area](#livingarea):
@@ -141,6 +142,25 @@ this document.
 
 Let us now start with the most button-populated part of the house, 
 namely the kitchen.
+
+<a name="keys"></a>
+## Keys
+
+You won't need keys to the house.  Instead, when you rent the
+house you will be given a (temporary) key code to the door.
+
+Make sure you close the door properly when you leave the house:
+there will be "oh-oh" sound if you don't shut it properly.
+
+In the unlikely event that the batteries for the door have died,
+there should be a 9V-battery placed in a plastic box under the
+trap door where the gas meter is, approximately 2m to the right
+of the door.  The 9V battery can be held under the keypad to
+power the lock enough to get in.  Then please contact the caretaker
+to have the batteries replaced.  The lock accepts 4 AA alkaline
+batteries, located behind a lid which is removed with a small hex key.
+
+[9V emergency battery](https://help.yale.co.uk/how-to-open-keyless-smart-door-batteries-flat/)
 
 
 <a name="kitchen"></a>
