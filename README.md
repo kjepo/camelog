@@ -7,6 +7,11 @@ If this is your first time in Camelog you may want to sit down,
 have a cup of tea, and spend a few minutes glancing through this
 document.
 
+If you are reading this on paper, you may also want to refer
+to the <a href="https://github.com/kjepo/camelog/">online version</a>
+of this document which is more up-to-date and contains links to
+manuals and other sites.
+
 Here you will find a list of what we provide, how to operate
 the appliances, and how to get in touch with the caretaker
 if something is missing or not working.
@@ -182,10 +187,9 @@ fixme: Add photos/videos here, check buttons, times.
 
 <a href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
 
-The following is just a simplified series of steps that
+The following is a simplified series of steps that
 tells you how to do a typical 40ºC wash of cotton clothes.
-For more elaborate programmes, please refer to the more detailed manual
-for the washing machine in this file.
+For more elaborate programmes, please refer to the more detailed manual above.
 
 If the machine doesn't respond, check first that the power switch is on,
 located on the wall above the worktop surface.
