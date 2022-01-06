@@ -145,7 +145,7 @@ namely the kitchen.
 As a general rule of thumb, if some of the appliances don't seem to
 work, please make sure that the socket switch is on.  For instance,
 the hob/oven, washing machine, washer/dryer and the extractor all
-have a main switch on the wall -- these are all labelled.
+have a main switch on the wall &mdash; these are all labelled.
 
 <a name="dishwasher"></a>
 ### Dishwasher
