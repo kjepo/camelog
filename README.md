@@ -190,7 +190,7 @@ The caretaker provides you with the first tablets needed to run the dishwasher.
   snaps on, as shown in the picture.
 - Turn on the machine (leftmost button)
 - Select a program by pressing `P`, we recommend 65º.
-- Press the play button &#xe23a;
+- Press the play button &#x25B7;
 - Shut the door within 4 seconds and the dishwasher will start.
 - After a couple of hours the machine will beep, 
  signalling it is done.
