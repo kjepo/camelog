@@ -92,17 +92,17 @@ the following:
 
 Here are some other useful numbers.
 
-- Electricity: Western Power Distribution, `0800-365900`.
-- Gas emergency: Transco, `0800-111999`.
-- Water: South West Water, `0800-1691144`.
-- Animal welfare: RSPCA, `0870-5555999`.
+- Electricity: Western Power Distribution, `0800-365900`
+- Gas emergency: Transco, `0800-111999`
+- Water: South West Water, `0800-1691144`
+- Animal welfare: RSPCA, `0870-5555999`
 - Hospitals:
 
 For serious injuries and sudden illness, call
-the Royal Cornwall Hospital (Treliske) in Truro: `01872-250000`.
+the Royal Cornwall Hospital (Treliske) in Truro: `01872-250000`
 
 For other information such as how to contact a doctor or
-dentist on duty, call NHS Direct on `0845-4647`.
+dentist on duty, call NHS Direct on `0845-4647`
 
 Refer to page 12 and 13 in the Yellow Pages for other important 
 phone numbers.
@@ -195,7 +195,7 @@ located on the wall above the worktop surface.
 
 - Put in a detergent tablet (a few should be supplied), 
   with the rest of the clothes.
-- Turn the rightmost dial <i>clockwise</i> to `D`.
+- Turn the rightmost dial <i>clockwise</i> to `D`
 - Optionally add softener to the pull-out tray, rightmost compartment.
 - Start the machine by pressing the ON/OFF button which is the 
   rightmost of the rectangular buttons.  The mains-on light
@@ -206,7 +206,7 @@ The program takes roughly two hours.
 The door is controlled by a safety device which releases a minute
 or so after the end of the programme.
 
-- Switch the machine off by depressing the ON/OFF button again, and
+- Switch the machine off by pressing the ON/OFF button again, and
   the mains-on light goes out.
 
 
@@ -237,10 +237,6 @@ the `+` and `-` buttons to set the number of
 minutes.  The oven will beep after that many minutes, but it won't
 turn itself off.
 
-```
-fixme: replace above with more up-to-date text
-```
-
 <a name="microwave"></a>
 ### Microwave
 
@@ -255,7 +251,7 @@ To heat up food you usually follow these steps.
 - Set the timer using the `+` and `-` buttons.
 - Set the desired power by repeatedly pressing the <tt>&#x25FF;</tt> button.
 For a typical frozen dinner you would use 750 W. 
-- Press `Jet Start`.
+- Press `Jet Start`
 
 If you need to experiment with the microwave buttons, please put a mug
 of water inside the microwave to avoid running it empty.
@@ -288,7 +284,7 @@ Finally, there is also a DVD player with some films in the drawer underneath the
 The stereo can play off your phone if you connect with a USB-cable
 or if you pair it with Bluetooth:
 
-- Press `BT Audio`.  "Pairing" wil be displayed.
+- Press `BT Audio`:  "Pairing" wil be displayed.
 - On your phone, select the `X-CM32` device.
 
 Radio reception is (you guessed it) weak around here.  We recommend
@@ -332,7 +328,7 @@ the control knob further counterclockwise.
 counterclockwise to position 6.  Then turn the control knob
 counterclockwise until reaching a stop, roughly when the dial
 is pointing straight up.  Now press down the control knob and hold
-for about five seconds - you will hear the pilot gas flowing.
+for about five seconds &mdash; you will hear the pilot gas flowing.
 - While still pressing down the knob, turn further counterclockwise
 to activate the piezo spark (you will hear it).
 Keep the knob down for a further
@@ -375,14 +371,14 @@ An artifact of the combination boiler is that water tends to
 be hotter when the tap is not fully open.  
 The whirlpool has a tendency to produce large amounts of foam
 when bubble bath is added.  It is therefore best to add the liquid
-gradually - a couple of spoons is usually enough.
+gradually &mdash; a couple of spoons is usually enough.
 
 There are two controls at the right side of the tub, one button to
 turn on the whirlpool and one dial to set the intensity of the jets.
 If the whirlpool button doesn't work, someone may have turned off
 the master switch on the other side of the wall, in bedroom 2.
 If you have problems turning the whirlpool off, you might be holding
-the button down for too long - it only needs to be quickly tapped.
+the button down for too long &mdash; it only needs to be quickly tapped.
 
 <a name="patio-garden"></a>
 ## The patio and garden
@@ -417,7 +413,7 @@ To fold the cot back together, remove the pad and use the hole
 to pull the floor up.
 
 If you need to rent other types of cots, buggies, safety gates, etc,
-try Babes & Bikes on 9 Polmorla Walk, Wadebridge `01208-815262`.
+try Babes & Bikes on 9 Polmorla Walk, Wadebridge `01208-815262`
 
 <a name="heating"></a>
 ## Heating and thermostats
@@ -426,8 +422,8 @@ The house is heated with underfloor heating, divided up into five
 different zones, each controlled by an individual thermostat.
 
 There is one thermostat, next to the sofa in the downstairs living room,
-which has a dial which you can just turn to a desired temperature - no need
-to click, just turn the dial.
+which has a dial which you can just turn to a desired temperature &mdash;
+no need to click, just turn the dial.
 
 [Thermostat manual](manuals/thermostat.pdf)
 
@@ -480,7 +476,7 @@ Visiting the castle requires a bit of walking and climbing but with
 the new bridge it is much easier. Once you are at the top you can
 enjoy some beautiful coastal scenery.  Plan to spend at least an hour
 here and make sure it is open before you go down by calling
-`01840-770328`.
+`01840-770328`
 
 In combination with a trip to Tintagel you could also visit Boscastle
 (now rebuilt after the flash flood) or enjoy a pint on the way back
@@ -518,7 +514,7 @@ Wadebridge.  They are all conveniently located next to the Camel Trail.
 <a name="golf"></a>
 ## Golf
 
-Near Constantine Bay is Trevose Golf and Country Club, `01841-520208`.
+Near Constantine Bay is Trevose Golf and Country Club, `01841-520208`
 For other golf clubs, see the Yellow Pages under "Golf Clubs".
 
 <a name="places"></a>
@@ -528,7 +524,7 @@ For other golf clubs, see the Yellow Pages under "Golf Clubs".
 ## Pharmacies
 
 There is a <a href="https://www.google.com/maps/place/Boots/@50.5160094,-4.8381324,17z/data=!3m1!4b1!4m5!3m4!1s0x486b76bde5102a57:0x196f70ef733d0d0f!8m2!3d50.5160008!4d-4.8359962">Boots</a> in Wadebridge.
-<a href="https://www.google.com/maps/place/Tesco+Superstore/data=!4m5!3m4!1s0x486b16486b6386e9:0x9527b01fc25408fa!8m2!3d50.2608871!4d-5.046934">Tesco</a> in Truro stay open later and has a pharmacy section, call `01872-357400`.
+<a href="https://www.google.com/maps/place/Tesco+Superstore/data=!4m5!3m4!1s0x486b16486b6386e9:0x9527b01fc25408fa!8m2!3d50.2608871!4d-5.046934">Tesco</a> in Truro stay open later and has a pharmacy section, call `01872-357400`
 
 <a name="movie"></a>
 ## Movie theatres
@@ -557,8 +553,8 @@ and Sainsbury's up on the other side of Truro.
 
 A list of some nearby pubs:
 
-- Pickwick in Burgois, `01841-540361`.
-- Ring o'Bells in St Issey, `01841-540251`.
+- Pickwick in Burgois, `01841-540361`
+- Ring o'Bells in St Issey, `01841-540251`
 
 <a name="padstow"></a>
 ## 5 minutes away: Padstow
