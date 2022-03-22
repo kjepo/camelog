@@ -128,6 +128,9 @@ access.
 
 There should be leaflets in the house with contact information.
 
+- Area Manager: `07498779017`
+- Caretaker: `07758127797`
+
 <a name="overview"></a>
 # 2. Overview of the house
 
