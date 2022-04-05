@@ -208,6 +208,9 @@ Please do not wash wood, for instance knives with the wooden handles.
 
 <a href="https://youtu.be/ZexcRzTvNgs">Video tutorial for washer/dryer</a>
 
+<a href="manuals/aqualux-1200-washingmachine.pdf">Manual for washer/dryer</a>
+
+
 The following is a simplified series of steps that
 tells you how to do a typical 40ºC wash of cotton clothes.
 For more elaborate programmes, please refer to the more detailed manual above.
