@@ -128,8 +128,7 @@ access.
 
 There should be leaflets in the house with contact information.
 
-- Area Manager: `07498779017`
-- Caretaker: `07758127797`
+You can contact Dustfree Living at either `07817 452879` or `01208 895676`.
 
 <a name="overview"></a>
 # 2. Overview of the house
