@@ -293,16 +293,16 @@ Closing the door and pressing `Jet Start` will continue with the program.
 
 There are two remote controls, one for the TV and one for the Sky box.
 
+The Sky remote has been programmed to turn on the TV as well.
+
 If the Sky box doesn't come on, press the `tv guide` button to
 wake it up.  If that doesn't help, make sure the TV is using `HDMI 1`
-by clicking on the input select near the on/off switch on the
-black TV remote.
+by clicking on the input select on the black TV remote.
 
 The TV has a USB port on the left hand side if you have films or
-photos on a USB flashdrive.  There's also a Google Chromecast
-if you want to cast Youtube videos etc from your phone or tablet.
+photos on a USB flashdrive. 
 
-Finally, there is also a DVD player with some films in the drawer underneath the TV.
+(The DVD player at the bottom is currently not connected.)
 
 <a name="stereo"></a>
 ### Stereo
