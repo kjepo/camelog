@@ -128,7 +128,8 @@ access.
 
 There should be leaflets in the house with contact information.
 
-You can contact Dustfree Living at either `07817 452879` or `01208 895676`.
+You can contact Trevose Property Management at `07482136198` (main line)
+or maintenance at `07455271843`
 
 <a name="overview"></a>
 # 2. Overview of the house
