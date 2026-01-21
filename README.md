@@ -113,15 +113,12 @@ phone numbers.
 
 Camelog has fibre-optic broadband with speeds up to 100 Mbit/s.
 The password is written on cards left around the house.
-There are two access points, `Camelog-2.4GHz` and `Camelog-5GHz`.
-They have the same speed: 2.4GHz has better reach but 5GHz is
-usually less sensitive to interference from micro waves etc.
+The WIFI name is simply `Camelog`.
 
 The router itself is in bedroom 3's closet if you need to restart it.
 
-Please don't change any settings, download illegal material or engage
-in criminal activities so that we can continue to offer free WIFI
-access.
+Please don't change any settings, or download illegal material or engage
+in criminal activities so that we can continue to offer free WIFI access.
 
 <a name="caretaker"></a>
 ## Your caretaker
@@ -247,43 +244,46 @@ won't work unless they're specially designed for induction and have a
 ferrous base. Stainless steel will only work if its base is made of magnetic
 grade steel.
 
-[Manual for Neff oven](manuals/neff-oven.pdf)
+[Manual for Smeg oven](manuals/Smeg-oven-DUSF400S.pdf)
 
-The oven has built-in timers that can either turn the oven on
-or off, or simply serve as a reminder alarm.  The manual for
-the oven explains it all quite well.
+There are two ovens: the lower one is the main fan-assisted oven
+while the upper is the auxiliary oven and is good for smaller items.
 
-For the typical heat-up-the-pizza job, turn the dial
-to `=` and set the temperature.  The red light
-goes off when the oven has reached that temperature.
-If you want to be reminded when your pizza is ready, 
-set the timer by first pressing the bell button &#x1F514; and then use
-the `+` and `-` buttons to set the number of 
-minutes.  The oven will beep after that many minutes, but it won't
-turn itself off.
+Each oven has its own function/temperature knob: the left knobs
+are for the upper oven while the rightmost knobs are for the lower oven.
+
+To heat food in the lower oven, turn the rightmost knob to the fan symbol.
+Then turn the adjacent temperature knob to the desire temperature.
+Wait for the thermostat light to go out (oven is preheated).
+Place the food on a tray on the middle shelf which gives even heat
+from all sides.
+
+**Note:** if there has been a power cut, the lower oven controls appear "dead",
+but the upper oven works.  If this happens:
+
+- Look at the clock display.
+- Press and hold the clock key for about 2 seconds until the time starts flashing.
+- Use +/- to set the correct time.
+- Wait about 7 seconds without pressing anything.
+
+When the small dot stops flashing, the oven is unlocked.
 
 <a name="microwave"></a>
 ### Microwave
 
-[Manual for Whirlpool microwave oven](manuals/microwave.pdf)
+[Manual for Panasonic microwave](manuals/microwave-panasonic.pdf)
 
-To heat up food you usually follow these steps.
+To heat food, place it in a microwave-safe dish on the glass tray and
+close the door. If you want full power, just enter the time (or press
+"Quick 30") and press Start.  Each press on "Quick 30" adds 30 seconds
+at full power.
 
-- Put your food container on the glass plate and close the door.
- Use the plastic cover to prevent food from splashing the inside
- of the microwave.
-
-- Set the timer using the `+` and `-` buttons.
-- Set the desired power by repeatedly pressing the <tt>&#x25FF;</tt> button.
-For a typical frozen dinner you would use 750 W. 
-- Press `Jet Start`
-
-If you need to experiment with the microwave buttons, please put a mug
-of water inside the microwave to avoid running it empty.
-
-You can always open the door while the microwave is running to stop it.
-Closing the door and pressing `Jet Start` will continue with the program.  
-
+The microwave oven defaults to High (800 W). To change the power, press "Micro Power"
+repeatedly until the desired level appears (High, Defrost, Medium, Low, or Warm),
+then enter the cooking time and press Start (the red circle/triangle at the bottom).
+You can open the door to stir or turn the food during cooking; close it and press
+Start again to continue. When finished, let the food stand briefly so the heat
+evens out before eating.
 
 <a name="livingarea"></a>
 ## Living Area
