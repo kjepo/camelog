@@ -160,7 +160,9 @@ power the lock enough to get in.  Then please contact the caretaker
 to have the batteries replaced.  The lock accepts 4 AA alkaline
 batteries, located behind a lid which is removed with a small hex key.
 
-[9V emergency battery](https://help.yale.co.uk/how-to-open-keyless-smart-door-batteries-flat/)
+[Instructions on how to replace batteries](https://www.youtube.com/watch?v=LTyWrlgevKg&t)
+
+[9V emergency battery](https://www.youtube.com/watch?v=6MAieLRFp0I)
 
 
 <a name="kitchen"></a>
