@@ -73,7 +73,7 @@ phone card.)
 <a name="powerfailure"></a>
 ## Power failure
 
-In the event of a power failure, a torch under the staircase should
+In the event of a power failure, a torch in the living room should
 come on.  There should also be some candles and matches in one of
 the kitchen dresser.
 
@@ -410,9 +410,7 @@ the button down for too long &mdash; it only needs to be quickly tapped.
 <a name="patio-garden"></a>
 ## The patio and garden
 
-We don't provide a barbecue as we don't have a facility for
-handling hot ashes.  If you are bringing your own grill
-please *do not* barbecue on the patio and *do not* leave
+We have an outside grill for barbecue.  Please *do not* leave
 hot ashes in the garbage bin.
 
 The mattresses for the patio chairs and seat cushions are stored in the box outside
@@ -423,7 +421,7 @@ in the shed or stored under the staircase.
 ## Bedrooms
 
 Each bedroom has a firm and a medium firm mattress. 
-The firm one is always on the right side as you come into the room.
+The firm one is usually on the right side as you come into the room.
 
 <a name="ironing"></a>
 ## Ironing
@@ -440,7 +438,7 @@ To fold the cot back together, remove the pad and use the hole
 to pull the floor up.
 
 If you need to rent other types of cots, buggies, safety gates, etc,
-try Babes & Bikes on 9 Polmorla Walk, Wadebridge `01208-815262`
+try Babes & Bikes on Polmorla Walk, Wadebridge `01208-815262`
 
 <a name="heating"></a>
 ## Heating and thermostats
@@ -454,7 +452,6 @@ no need to click, just turn the dial.
 
 [Thermostat manual](manuals/thermostat.pdf)
 
-
 The other thermostats are programmed to maintain reasonable temperatures
 throughout the day.  If you're hot or cold, you can temporarily decrease
 or increase the temperature using the arrow keys.
@@ -465,7 +462,6 @@ This will adjust the setting temporarily until the next time slot.
 
 Garbage is picked up on changeover (Saturdays).  Please seal the black bags
 before depositing them in the garbage bins.
-
 
 <a name="attractions"></a>
 # 3. Tourist attractions
@@ -500,10 +496,9 @@ castle was built between 1230-1236 but within two hundred years the
 castle was in ruins and remains so to this day.
 
 Visiting the castle requires a bit of walking and climbing but with
-the new bridge it is much easier. Once you are at the top you can
-enjoy some beautiful coastal scenery.  Plan to spend at least an hour
-here and make sure it is open before you go down by calling
-`01840-770328`
+the new bridge, donated by the Rausing family (Swedish!) makes it much easier.
+Once you are at the top you can enjoy some beautiful coastal scenery.
+Plan to spend at least an hour here.
 
 In combination with a trip to Tintagel you could also visit Boscastle
 (now rebuilt after the flash flood) or enjoy a pint on the way back
