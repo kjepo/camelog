@@ -123,10 +123,8 @@ in criminal activities so that we can continue to offer free WIFI access.
 <a name="caretaker"></a>
 ## Your caretaker
 
-There should be leaflets in the house with contact information.
-
-You can contact Trevose Property Management at `07482136198` (main line)
-or maintenance at `07455271843`
+You can contact Christie at Padstow Prestige Cleaning Services at `07875 371969`,
+either via WhatsApp och regular phone.
 
 <a name="overview"></a>
 # 2. Overview of the house
