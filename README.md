@@ -458,8 +458,9 @@ This will adjust the setting temporarily until the next time slot.
 <a name="garbage"></a>
 ## Garbage
 
-Garbage is picked up on changeover (Saturdays).  Please seal the black bags
-before depositing them in the garbage bins.
+Garbage is picked up once a week.  Please seal the the bags
+before depositing them in the outside garbage bin.  There should also
+be a bin for recyclingm, and a tub for glass.
 
 <a name="attractions"></a>
 # 3. Tourist attractions
